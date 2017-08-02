@@ -39,9 +39,31 @@ This tournament would start at the home/office where each participant / team wou
 
 5. Beer + Fun Meeting to define Front-End and Back-End requirements
 
-6. Preparing the App to be published in Apple and Google Stores
+6. Work at home to improve the FE and BE parts.
 
-7. Beer + Meeting / Party to celebtrate the App launch and discuss the event to future improvement.
+7. Beer + Fun Meeting to fine tune the FE and BE parts.
+
+8. Beer + Fun Meeting for Preparing the App to be published in Apple and Google Stores
+
+9. Work at home to accomplish with the preps.
+
+8. Beer + Meeting / Party to celebtrate and do the App launch and discuss the event to future improvement.
+
+_____________________________________________________________________________________
+
+Guys, this was an initial sketch of the idea! Please PR and make suggestions to improve this guideline first!
+
+
+Mentorship: André Jonas, Miguel Coquet, Nelson Neves, Ricardo Soares
+Admin and organization: Alexandre Palma, Eduardo Vedes, Waiting for more volunteers!
+
+
+
+
+
+
+
+
 
 
 
