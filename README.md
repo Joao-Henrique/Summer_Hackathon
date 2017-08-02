@@ -33,7 +33,7 @@ The structure of this hackathon could be divided in the following topics:
 
 3. UI/UX Tournament (Definition of the Mockups and Functionality of the App)
 
-This tournament would start at the home/office where each participant / team would PR proposals do the GH Repo. Then we would do a meeting to vote and decide which was the best design
+This tournament would start at the home/office where each participant / team would PR proposals to the GH Repo. Then we would do a meeting to vote and decide which was the best design
 
 4. Work at home to improve the winning UI/UX mockup.
 
@@ -47,7 +47,7 @@ This tournament would start at the home/office where each participant / team wou
 
 9. Work at home to accomplish with the preps.
 
-8. Beer + Meeting / Party to celebtrate and do the App launch and discuss the event to future improvement.
+8. Beer + Meeting / Party to celebrate and do the App launch and discuss the event to future improvement.
 
 _____________________________________________________________________________________
 
