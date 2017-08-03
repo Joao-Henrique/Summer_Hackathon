@@ -1,3 +1,5 @@
+![freeCodeCampFaro Logo](https://github.com/{freeCodeCampFaro}/{Summer_Hackathon}/raw/master/logoimgs/logo.png)
+
 # Summer_Hackathon
 
 
