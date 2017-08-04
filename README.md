@@ -81,6 +81,8 @@ Peeps will have time to prepare their best design/mockups of the app.
 
 ### 05. THE MENTORSHIP & ORGANIZATION
 
+Get in touch with us ate the GeekSessions FAO Slack (#freecodecamp)
+
 Mentors:
 1. André Jonas (@jonas)
 2. Miguel Coquet (@coquet)
@@ -92,7 +94,7 @@ Remote Mentors:
 Organization: 
 1. Eduardo Vedes (@evedes)
 2. Alexandre Palma (@alxjspalma)
-
+3. Patrícia Ribeiro (@pribeiro)
 ----------------------------------------------------------------------------------------------
 
 ### 06. SPONSORSHIP
