@@ -158,7 +158,11 @@ NOTE 01:
    ```
    git remote add upstream <ORIGINAL_REPO_LINK>
    ```
-   Note: BE CAREFUL about spaces. If you have errors, only copy the link and rewrite everything else again, including spaces!
+   Note: BE CAREFUL about spaces. If you have errors, only copy the link and rewrite everything else again, including spaces! If it lets you add but then you have problems updating (see next section), do:
+   ```
+   git remote remove upstream
+   ```
+   And redo the add above.
 
 7. You can check the remotes again (see 4.). You should name have 2 more named "upstream".
 
