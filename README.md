@@ -37,7 +37,7 @@ To accomplish this objective the FCC Faro Group would have two types of efforts:
 ### 04. HACKATHON LINE-UP
 
 
-**Day 01**
+**Day 01** 11/08/2017 - 21h00 - Faro - Seu Café
 
 1. B+F (Beer + Fun) Meeting to define the user story of the game;
 
