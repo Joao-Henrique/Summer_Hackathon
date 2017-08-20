@@ -37,13 +37,13 @@ To accomplish this objective the FCC Faro Group would have two types of efforts:
 ### 04. HACKATHON LINE-UP
 
 
-**Day 01** _(11/08/2017 - 21h00 - Faro - Seu Café)_
+**Meeting Day 01** _(11/08/2017 - 21h00 - Faro - O Seu Café)_
 
 1. B+F (Beer + Fun) Meeting to define the user story of the game;
 
 2. Work at home to improve the main user story defined before;
 
-**Day 08**
+**Meeting Day 02** _(19/08/2017 -21h00 - Faro - O Seu Café)_
 
 3. B+F to define the main functionality of the APP (UI/UX) based on the User Story Defs;
 
@@ -51,7 +51,7 @@ To accomplish this objective the FCC Faro Group would have two types of efforts:
 
 Peeps will have time to prepare their best design/mockups of the app.
 
-**Day 22**
+**Meeting Day 03** _(08/09/2017 - Needs a proper Meeting Place)_
 
 5. B+F to elect the winner of the UI/UX Tournament
 
@@ -95,6 +95,7 @@ Organization:
 1. Eduardo Vedes (@evedes)
 2. Alexandre Palma (@alxjspalma)
 3. Patrícia Ribeiro (@pribeiro)
+
 ----------------------------------------------------------------------------------------------
 
 ### 06. SPONSORSHIP
@@ -118,78 +119,7 @@ NOTE 01:
 - You push the changes from your origin to master branch of your Fork in your GH account;
 - You do a Pull Request (PR) on GH Forked Repo and wait for comments / approval / rejection.
 
-----------------------------------------------------------------------------------------------
-
-#### Git Helper:
-
-##### Cloning the Repository Fork
-
-1. Fork the freeCodeCampFaro/Summer_Hackathon repository through the fork link on the top of the page. This will create a new repository on your GitHub account.
-
-2. Go to your forked repository and get the clone link (HTTPS recommended).  
-   Now on your PC, go to where you would like the repository folder to be, and open a git console. Clone the repository:  
-     ```
-     git clone <YOUR_CLONE_LINK> <FOLDER_NAME>
-     ```
-     
-     NOTE: If you don't give it a folder name, it just saves to a folder with the same name as the Repo.
-
-3. Now you have the folder with the repository. Go inside it.
-   ```
-   cd <FOLDER_NAME>
-   ```
-
-##### Setting the Upstream
-
-4. We need to set the upstream for the repository, so we can update our fork when the original is updated.
-   Check your current remotes:
-   ```
-   git remote -v
-   ```
-   You should see something like this:
-   ```
-   origin  https://github.com/<YOUR_USERNAME>/Summer_Hackathon.git (fetch)
-   origin  https://github.com/<YOUR_USERNAME>/Summer_Hackathon.git (push)
-   ```
-
-5. Go to the original repository page on GitHub. Get it's clone link like you did for your repository.
-
-6. Back on the git console, do:
-   ```
-   git remote add upstream <ORIGINAL_REPO_LINK>
-   ```
-   Note: BE CAREFUL about spaces. If you have errors, only copy the link and rewrite everything else again, including spaces! If it lets you add but then you have problems updating (see next section), do:
-   ```
-   git remote remove upstream
-   ```
-   And redo the add above.
-
-7. You can check the remotes again (see 4.). You should name have 2 more named "upstream".
-
-##### Updating your fork
-
-8. Now you're ready to update your fork! Whenever new merges are made to the original repo, you will want to do this.
-   We fetch from the original (our upstream now) the most recent changes we don't have.
-   ```
-   git fetch upstream
-   ```
-   
-9. Make sure you have checkout out the branch you want to update.
-   ```
-   git checkout master
-   ```
-   
-10. Now we want to merge the changes we fetched to our local branch (notice it's a local, not our fork yet).
-    ```
-    git merge upstream/master
-    ```
-
-11. If you go to your forked repository on GitHub now, you will see nothing has changed, you still have things missing from the Upstream. We need to push the changes from the upstream to our remote forked repository (our repository's origin). So you just have to do:
-    ```
-    git push
-    ```
-
-12. All done! Now you should have your fork equal to do original repository!
+Check out the 02.GIT HELP Folder for more instructions!
 
 ----------------------------------------------------------------------------------------------
 
