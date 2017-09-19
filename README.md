@@ -51,7 +51,7 @@ To accomplish this objective the FCC Faro Group would have two types of efforts:
 
 Peeps will have time to prepare their best design/mockups of the app.
 
-**Meeting Day 03** _(08/09/2017 - Needs a proper Meeting Place)_
+**Meeting Day 03** _(22/09/2017 - 21h00 - Faro - Contentserv)_
 
 5. B+F to elect the winner of the UI/UX Tournament
 
